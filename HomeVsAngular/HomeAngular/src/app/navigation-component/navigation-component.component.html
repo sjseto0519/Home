@@ -1,0 +1,20 @@
+<div class="app-navigation-root navigation-root-container">
+  <div>
+    <div class="container-fluid">
+      <div class="fixed-nav">
+        <div class="fixed-nav-inner">
+          <ul class="text-center">
+            <a (click)="clearShowPiece()" id="menu-toggle" class="waves-light menu-toggle" data-toggle="offcanvas">
+              <li>
+                <i class="material-icons menu-toggle-icon">menu</i>
+              </li>
+            </a>
+            <ng-container *ngFor="let nav of navItems">
+              <app-navigation-icon [tooltip]="nav.tooltip" [icon]="nav.icon" [section]="nav.section"></app-navigation-icon>
+            </ng-container>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>

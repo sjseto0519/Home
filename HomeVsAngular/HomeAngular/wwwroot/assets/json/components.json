@@ -1,0 +1,10 @@
+{
+  "title": "app-title",
+  "paragraph": "app-paragraph",
+  "daterange": "app-daterange",
+  "dotDelimitedList": "app-dotlist",
+  "commaDelimitedList": "app-commalist",
+  "link": "app-link",
+  "navigation": "app-navigation",
+  "showPiece": "app-showpiece"
+}

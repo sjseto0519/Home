@@ -1,0 +1,159 @@
+{
+  "highlights": [
+    {
+      "type": "title",
+      "content": "Highlights"
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        "Scott Seto has professional experience building desktop and web applications with client and server-side technologies such as C#, .NET, WPF, JQuery, Javascript, Less and Knockout. ",
+        "He utilized tools such as Visual Studio, VSTS, Microsoft Teams, Fiddler, Postman, and BrowserStack.",
+        "He is an active learner who enjoys absorbing new concepts and skills to benefit his team and others in the organization.",
+        "He enjoys utilizing other web development frameworks such as React JS, Vue JS, and Angular JS.",
+        "He has worked with SQL Server and MySQL databases."
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "type": "title",
+      "content": "Experience"
+    },
+    {
+      "type": "daterange",
+      "start": "August 2012",
+      "end": "March 2020"
+    },
+    {
+      "type": "dotDelimitedList",
+      "content": [
+        "Software Developer",
+        "Liberty Tax Service"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        "First, worked as a tax software developer converting complex tax logic into C# code.",
+        "Worked in collaboration with tax analysts, tax client, and business services teams.",
+        "Built WPF desktop tools to promote developer productivity, and automatically review code.",
+        "Utilized the MVVM software pattern to help develop a tax model engine used by both online clients and tax professionals in branch offices."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        "Then, was promoted to the tax client team and worked to enhance the client-side Javascript engine used in DIY tax products.",
+        "Converted the ES5 engine using Gulp to an ES6 engine using Webpack.",
+        "Greatly improved its performance and reliability.",
+        "Utilized Jest to add unit tests to the development process to reduce the likelihood of runtime errors.",
+        "Implemented responsive web design principles to develop mobile-friendly web pages."
+      ]
+    },
+    {
+      "type": "daterange",
+      "start": "May 2007",
+      "end": "August 2012"
+    },
+    {
+      "type": "dotDelimitedList",
+      "content": [
+        "CEO/Software Developer",
+        "Ameritus Web Solutions, LLC"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        "Hosted web sites with IIS7/Apache/Tomcat and provide troubleshooting services.",
+        "Created dynamic web sites using JSP, ASP.NET, PHP, CSS, JQuery and Javascript.",
+        "Handled web site data storage with SQL Server and MySQL.",
+        "Developed a web site for finding homes to sell or rent.",
+        "Developed a web site for designing 3-D shoes with Maya."
+      ]
+    }
+  ],
+  "technicalSummary": [
+    {
+      "type": "title",
+      "content": "Technical Summary"
+    },
+    {
+      "type": "commaDelimitedList",
+      "content": [
+        "C++",
+        "C#",
+        "Java",
+        "JSP",
+        "PHP",
+        "Javascript",
+        "JQuery",
+        "JSON",
+        "Newtonsoft.JSON",
+        "Visual Studio",
+        "CSS",
+        "Less",
+        "SCSS",
+        "Web API",
+        "Knockout JS",
+        "React JS",
+        "Vue JS",
+        "Angular 8",
+        "Windows Forms",
+        "WPF",
+        "SQL Server",
+        "MySQL",
+        "WCF",
+        "Agile Process Framework",
+        "Microsoft Office",
+        "Microsoft Teams",
+        "VSTS",
+        "Fiddler",
+        "Postman",
+        "BrowserStack",
+        "UNIX",
+        "Linux",
+        "Android",
+        "Eclipse"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "type": "title",
+      "content": "Education"
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        "Bachelor of Science, Computer Science",
+        "Old Dominion University, Norfolk, VA",
+        "2009 Graduate"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "type": "title",
+      "content": "Projects"
+    },
+    {
+      "type": "link",
+      "content": "Sconexus",
+      "href": "http://www.sconexus.com"
+    }
+  ],
+  "social": [
+    {
+      "type": "title",
+      "content": "Social"
+    },
+    {
+      "type": "link",
+      "content": "Linkedin",
+      "href": "http://www.linkedin.com/in/scott-seto-8475682b/"
+    }
+  ]
+}
+

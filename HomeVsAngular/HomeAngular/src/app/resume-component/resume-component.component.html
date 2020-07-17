@@ -1,0 +1,26 @@
+<div>
+  <ng-container *ngFor="let item of itemsToShow">
+    <ng-container *ngIf="item.type === 'title'">
+      <h5 class="title-content">{{ item.contentDisplay }}</h5>
+    </ng-container>
+    <ng-container *ngIf="item.type === 'daterange'">
+      <p class="date-range">{{ item.contentDisplay }}</p>
+    </ng-container>
+    <ng-container *ngIf="item.type === 'dotDelimitedList'">
+      <ng-container *ngFor="let item of item.contentDisplay.list">
+        <div style="display:inline-block; padding-right:15px">
+        <p class="resume-list">{{ item }}</p>
+          </div>
+      </ng-container>
+    </ng-container>
+    <ng-container *ngIf="item.type === 'paragraph'">
+      <p class="combined-content">{{ item.contentDisplay }}</p>
+    </ng-container>
+    <ng-container *ngIf="item.type === 'commaDelimitedList'">
+      <p class="resume-list">{{ item.contentDisplay }}</p>
+    </ng-container>
+    <ng-container *ngIf="item.type === 'link'">
+      <a [attr.href]="item.contentDisplay.href" class="resume-link">{{ item.contentDisplay.text }}</a>
+    </ng-container>
+  </ng-container>
+  </div>

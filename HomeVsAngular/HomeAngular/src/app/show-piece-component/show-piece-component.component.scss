@@ -1,0 +1,56 @@
+.top > .image:before {
+  width: 100%;
+  content: " ";
+  background-image: url(../../assets/Images/imageedit1.jpg);
+  position: absolute;
+  left: 0;
+  top: -476px;
+  height: 776px;
+  opacity: 0.9;
+}
+
+.show-piece-container {
+  position: absolute;
+  transition: opacity linear 0.33s;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: 50;
+}
+
+.show-piece-inner {
+  display: flex;
+  position: relative;
+  width: 80%;
+  height: 300px;
+  border-radius: 5px;
+  overflow-y: scroll;
+  margin-left: 100px;
+  opacity: 0.73;
+  background-color: black;
+}
+
+.show-piece-resume-container {
+  width: 500px;
+  height: 700px;
+  padding: 10px;
+  color: rgba(250,250,250,0.9);
+  margin: auto;
+}
+
+.show-piece-image {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  height: 100%;
+  width: 100%;
+  z-index: 10;
+
+  > div {
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background-color: navajowhite;
+  }
+}

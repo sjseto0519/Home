@@ -1,0 +1,34 @@
+{
+  "navigation": [
+    {
+      "section": "highlights",
+      "icon": "looks",
+      "tooltip": "Highlights"
+    },
+    {
+      "section": "experience",
+      "icon": "collections",
+      "tooltip": "Experience"
+    },
+    {
+      "section": "technicalSummary",
+      "icon": "gradient",
+      "tooltip": "Technical Summary"
+    },
+    {
+      "section": "education",
+      "icon": "system_update",
+      "tooltip": "Education"
+    },
+    {
+      "section": "projects",
+      "icon": "fireplace",
+      "tooltip": "Projects"
+    },
+    {
+      "section": "social",
+      "icon": "group",
+      "tooltip": "Social"
+    }
+  ]
+}
