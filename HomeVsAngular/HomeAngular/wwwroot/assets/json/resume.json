@@ -11,7 +11,7 @@
         "He utilized tools such as Visual Studio, VSTS, Microsoft Teams, Fiddler, Postman, and BrowserStack.",
         "He is an active learner who enjoys absorbing new concepts and skills to benefit his team and others in the organization.",
         "He enjoys utilizing other web development frameworks such as React JS, Vue JS, and Angular JS.",
-        "He has worked with SQL Server and MySQL databases."
+        "He has worked with SQL Server, MySQL, and SQLite databases."
       ]
     }
   ],
@@ -22,8 +22,28 @@
     },
     {
       "type": "daterange",
+      "start": "July 2020",
+      "end": "June 2022"
+    },
+    {
+      "type": "dotDelimitedList",
+      "content": [
+        "Full Stack Software Developer",
+        "DAO Emerging Technologies"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [
+        "Utilized the Aurelia web application framework to upgrade and revitalize WebSnak route accounting software that formerly relied on Java applets and servlets.",
+        "Enhance Sycamore route accounting mobile software utilizing Xamarin Forms by designing new pages and improving performance",
+        "Assist in the design of unit tests utilizing Selenium, Node JS, Nodemon, and Jenkins"
+      ]
+    },
+    {
+      "type": "daterange",
       "start": "August 2012",
-      "end": "March 2020"
+      "end": "April 2020"
     },
     {
       "type": "dotDelimitedList",
